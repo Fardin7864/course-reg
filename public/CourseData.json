@@ -1,0 +1,75 @@
+[
+    {
+      "course_title": "Introduction to Programming",
+      "description": "Learn the basics of programming and get started with coding in various programming languages.",
+      "img": "https://i.ibb.co/25d69cs/Rectangle-2-2.png",
+      "id": "COURSE001",
+      "price": 490,
+      "credit": 3
+    },
+    {
+      "course_title": "Data Structures and Algorithms Fundamentals",
+      "description": "Master the fundamental concepts of data structures and algorithms to solve complex problems efficiently.",
+      "img": "https://i.ibb.co/xFf4Wqz/Rectangle-3.png",
+      "id": "COURSE002",
+      "price": 590,
+      "credit": 5
+    },
+    {
+      "course_title": "Python Programming Masterclass",
+      "description": "Become an expert in Python programming with hands-on projects and in-depth lessons.",
+      "img": "https://i.ibb.co/4KgNvh2/Rectangle-2.png",
+      "id": "COURSE003",
+      "price": 690,
+      "credit": 5
+    },
+    {
+      "course_title": "Web Development with HTML, CSS, and JavaScript",
+      "description": "Build interactive and responsive websites using the core web development technologies.",
+      "img": "https://i.ibb.co/fkFRNh5/Rectangle-2-3.png",
+      "id": "COURSE004",
+      "price": 790,
+      "credit": 5
+    },
+    {
+      "course_title": "Java Programming for Beginners",
+      "description": "Start your journey into the world of Java programming with step-by-step guidance.",
+      "img": "https://i.ibb.co/7pYD5p3/Rectangle-2-6.png",
+      "id": "COURSE005",
+      "price": 540,
+      "credit": 3
+    },
+    {
+      "course_title": "Machine Learning Foundations",
+      "description": "Get a solid foundation in machine learning concepts and algorithms for data analysis and prediction.",
+      "img": "https://i.ibb.co/VS537Nv/Rectangle-2-5.png",
+      "id": "COURSE006",
+      "price": 890,
+      "credit": 5
+    },
+    {
+      "course_title": "C++ Programming: Advanced Topics",
+      "description": "Dive deeper into C++ programming with advanced topics and real-world applications.",
+      "img": "https://i.ibb.co/mHLbmph/Rectangle-2-4.png",
+      "id": "COURSE007",
+      "price": 690,
+      "credit": 5
+    },
+    {
+      "course_title": "Full-Stack Web Development Bootcamp",
+      "description": "Become a full-stack web developer by learning both front-end and back-end technologies.",
+      "img": "https://i.ibb.co/ZhskSRg/Rectangle-2-1.png",
+      "id": "COURSE008",
+      "price": 990,
+      "credit": 10
+    },
+    {
+      "course_title": "Data Science and Machine Learning Masterclass",
+      "description": "Master the art of data science and machine learning with practical projects and techniques.",
+      "img": "https://i.ibb.co/G258qXt/Rectangle-3-1.png",
+      "id": "COURSE009",
+      "price": 790,
+      "credit": 5
+    }
+  ]
+  
